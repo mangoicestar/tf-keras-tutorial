@@ -24,7 +24,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-
+pretrained/ILSVRC2012_val_1000.tar
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# dataset
+basic/MNIST_data
+basic/tb-log1
+
