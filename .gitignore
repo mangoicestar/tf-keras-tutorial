@@ -103,4 +103,10 @@ ENV/
 # dataset
 basic/MNIST_data
 basic/tb-log1
-
+*.7z
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
